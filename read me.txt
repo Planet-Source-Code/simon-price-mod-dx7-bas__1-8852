@@ -1,0 +1,11 @@
+Mod DX7 - by Simon Price
+
+This module contains some basic functions to make DirectX 7 programming easier. It also contains a form which demonstates the use of the module. This is my first ever DirectX program, so it may help others learning DirectX. It demonstrates basic Blt'ing and Transparent Blt's. Do whatever you like to the code. I take no responsability for the consequenced of you running this code on your computer.
+
+Also see my next use for this module. I have made a 3D textured game with lighting effects using this module! It's called aMAZEing 3D at Planet Source Code or at my website it's called VB DOOM. My website is at www.VBgames.co.uk - Be sure to pick up the DirectX 7 versions because there are also Windows versions as well.
+
+Hope this help someone out there
+
+Simon Price
+Email : Si@VBgames.co.uk 
+Website : www.VBgames.co.uk 
